@@ -1,0 +1,23 @@
+# 🧪 s206_Repo
+
+This repository contains all my lab experiments for the Web Technologies / Programming Laboratory course.  
+Each folder includes HTML, CSS, and JavaScript files demonstrating core web development concepts.
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 🙏 Acknowledgements
+I would like to express my sincere gratitude to:
+
+- [Venkat], for guidance and support throughout the lab sessions.  
+- [KL UNIVERSITY], for providing the learning environment and resources.  
+- Open-source contributors and documentation, which helped in understanding web technologies better.  
+- My classmates and peers, for collaboration and shared learning.
+
+---
+
+Thank you all for helping me learn, grow, and build this project! 💻✨
